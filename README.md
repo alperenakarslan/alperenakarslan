@@ -21,11 +21,11 @@
 
 - 🔭 I’m currently working on [Sınava Kaç Gün Kaldı?](https://tytkacgunkaldi.com/)
 
-- 🌱 I’m currently learning **JS,React.**
+- 🌱 I’m currently learning **JavaScript,ReactJS.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alperenakarslan?tab=repositories](https://github.com/alperenakarslan?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories.](https://github.com/alperenakarslan?tab=repositories)
 
-- 📫 How to reach me **alpereenakarslan@gmail.com**
+- 📫 How to reach me. **alpereenakarslan@gmail.com**
 
 </br>
 
