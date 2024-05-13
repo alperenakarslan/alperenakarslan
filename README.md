@@ -18,8 +18,6 @@
 
 ### 🧑🏻‍💻 Social
 <p align="left">
-    
-<a href="https://twitter.com/alperenakrslan" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
     <a href="https://www.linkedin.com/in/alperen-akarslan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
