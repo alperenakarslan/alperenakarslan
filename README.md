@@ -11,8 +11,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![AdobeXd](https://img.shields.io/badge/-AdobeXd-05122A?style=flat&logo=AdobeXd)&nbsp;
-![Javascript](<img className="m-1" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="vivek javascript" />)&nbsp;
-![NodeJS](<img className="m-1" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />)&nbsp;
+![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 </br>
 
