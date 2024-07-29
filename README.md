@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋🏻 I'm Alperen</h1>
 <h3 align="center">I'm a Full - Stack Developer from Turkey.</h3>
-
 </br>
-
-### 🧑🏻‍💻 Social
+### Connect with me :
 <p align="left">
-    <a href="https://www.linkedin.com/in/alperen-akarslan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/alperen-akarslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyit yahya kuru" height="30" width="40" /></a>
 </p>
-
 </br>
-
-
 ### 🔊 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=alperenakarslan">
