@@ -1,8 +1,8 @@
 # 💻 Hey! I'm Alperen 👋
 
 ## 🚀 About Me
-🔹 .NET, C# 🖥️  
-🔹 Flutter, Dart 📱  
+🔹 C#, .NET 🖥️  
+🔹 Dart, Flutter 📱  
 🔹 Full-stack development 💡  
 🔹 I am open to continuous learning and self-improvement! 🚀  
 
