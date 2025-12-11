@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-- 💻 C#, .NET ekosisteminde uzman  
-- 📱 Flutter & Dart ile modern mobil uygulamalar geliştiren  
+- 💻 Expert in C# and the .NET ecosystem  
+- 📱 Develops modern mobile applications using Flutter & Dart  
 - 🌐 Full-stack developer  
-- 🔥 Sürekli öğrenmeye ve kendini geliştirmeye tutkulu  
-- ☕ Kod yazarken kahvesiz asla!  
+- 🔥 Passionate about continuous learning and self-improvement  
+- ☕ Never codes without coffee!  
 
 ---
 
@@ -67,4 +67,4 @@
 
 ## ☕ Fun Fact
 
-🔥 *Kod yazarken kahve içmezsem bug oluşuyor sanırım.* 🚀
+🔥 *I think bugs occur when I don't drink coffee while coding.* 🚀
